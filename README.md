@@ -8,7 +8,8 @@
 
 *tg: victtil*
 
-> *дорогой дневник, сегодня мне опять никто не перевел сто миллионов долларов, сил терпеть это безобразие больше нет.*
+> *дорогой дневник, сегодня мне опять никто не перевел
+> сто миллионов долларов, сил терпеть это безобразие больше нет*
 
 </div>
 
@@ -28,11 +29,21 @@
 
 ---
 
+
 ### a little bit of python
 
-```print("bonjour, world!")```
 
----
+### a little bit of python
+
+
+### a little bit of python
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=print%28%22bonjour%2C+world%21%22%29)
+
+</div>
+
 
 ### little goals
 
