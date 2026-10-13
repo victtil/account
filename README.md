@@ -36,20 +36,18 @@
 
 ### little goals
 
-- [x] learn python basics
-- [x] create my github profile
-- [ ] improve my c++ skills
-- [ ] build my first big project
-- [ ] explore new technologies
-
+- [x] создать github profile
+- [ ] улучшить c++ skills
+- [ ] выжить в итмо
 
 ---
 
 ### a few things about me
 
-- interested in programming
-- studying software engineering
-- passionate about cinematography
-- i have very little time to get things done....
+- учусь на software engineering
+- увлекаюсь кинематографом
+- закончила музыкальную школу с отличием
+- У МЕНЯ ОЧЕНЬ МАЛО ВРЕМЕНИ НА ЖИНЗЬ ИЗ-ЗА ДОМАШКИ В ИМТО
+  
 
 
