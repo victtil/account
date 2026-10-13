@@ -30,8 +30,7 @@
 
 ### a little bit of python
 
-```print("bonjour, world!")
-```
+```print("bonjour, world!")```
 
 ---
 
