@@ -30,11 +30,7 @@
 
 ### a little bit of python
 
-```python
-def hello_world():
-    print("bonjour, world!")
-
-hello_world()
+```print("bonjour, world!")
 ```
 
 ---
