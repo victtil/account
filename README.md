@@ -29,13 +29,6 @@
 
 ---
 
-
-### a little bit of python
-
-
-### a little bit of python
-
-
 ### a little bit of python
 
 <div align="center">
